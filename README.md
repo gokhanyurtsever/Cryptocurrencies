@@ -1,2 +1,3 @@
 # Cryptocurrencies
-#### A small crypto application using API
+
+A small real-time cryptocurrencies application using API
